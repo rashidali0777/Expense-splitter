@@ -1,0 +1,1 @@
+Expense Splitter is a simple and interactive web app built with HTML, CSS, and JavaScript to help users split group expenses easily. Users can add participants, enter their expenses, and the app automatically calculates who owes whom. It offers a clean, real-time, and user-friendly interface for quick settlements.
